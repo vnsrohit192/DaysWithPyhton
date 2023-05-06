@@ -21,4 +21,4 @@ def img2sketch(photo, k_size):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
     
-img2sketch(photo=r'C:\Users\VIRENDRA\Documents\rohit kumar\rohit2.jpg',k_size=7)
+img2sketch(photo=r'image_address',k_size=7)
